@@ -14,4 +14,4 @@ Data Documentation: https://www.ncei.noaa.gov/pub/data/cdo/documentation/GHCND_d
 NOAA Climate Data: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 
 # Preparation
-The raw data frames for both Seattle and NYC have been heavily edited to create a new data frame that includes the average precipitation for each day in both cities across all recording stations. The steps taken to do so may be found in the Data Preparation Colab Notebook.
+The raw data frames for both Seattle and NYC have been heavily edited to create a new data frame that includes the average precipitation for each day in both cities across all recording stations. The new data frame is called "new_sea_nyc_data.csv" and the steps taken create it may be found in the "Data Preparation Colab Notebook."
